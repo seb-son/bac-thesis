@@ -1,9 +1,8 @@
-# MALACH24-JKU-DCASE-TASK6
-
+# MIDI-Piano Playalong Generation with Autoregressive Transformers
 
 <!-- PROJECT LOGO -->
 <br />
-<h3 align="center">MIDI-Piano Playalong Generation with Autoregressive Transformers</h3>
+<h3 align="center">Bac Thesis in Artificial Intelligence - JKU</h3>
 <div align="center">
   <img title="(C) dcase.community" alt="Challenge logo" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*1P2ygjJmhzTDymNcyRMCUQ.png" >
 
