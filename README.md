@@ -4,7 +4,7 @@
 <br />
 <h3 align="center">Bac Thesis in Artificial Intelligence - JKU</h3>
 <div align="center">
-  <img title="(C) dcase.community" alt="Challenge logo" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*1P2ygjJmhzTDymNcyRMCUQ.png" >
+  <img title="(C) https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/" alt="music robot" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/auto-music-.jpg" >
 
   <h4 align="center">
     Bac Thesis in Artificial Intelligence - JKU
