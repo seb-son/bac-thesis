@@ -1,0 +1,22 @@
+# add requirements for venv 
+name: bac
+
+channels:
+ - pytorch
+ - nvidia
+ - conda-forge
+ 
+dependencies: 
+numpy 
+pandas
+partitura
+miditok
+pytorch-lightning
+transformers
+matplotlib
+scipy
+pytorch 
+torchvision 
+torchaudio 
+pytorch-cuda=12.1
+
