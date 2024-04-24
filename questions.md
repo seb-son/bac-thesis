@@ -9,5 +9,6 @@ collator = DataCollator(
     tokenizer["PAD_None"], pad_on_left=True, )
 :param shift_labels : shift labels for autoregressive training? default is false
     
+* how to feed a midi note to the generation in inference
 
     
