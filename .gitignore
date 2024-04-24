@@ -1,1 +1,3 @@
-/data
+# add folders to ignore
+data
+model
