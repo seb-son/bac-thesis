@@ -1,7 +1,9 @@
 ## Questions
 
 * use Masked Language Modeling
-* split data into train/val before generating chunks
+  
+* split data into train/val before generating chunks -split before
+  
 * DataCollator pads (on left for generation - models usually cant generate from padding tokens):
 
  ## TODO : does this make sense?
