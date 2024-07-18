@@ -1,4 +1,4 @@
-# MIDI-Piano Playalong Generation with Autoregressive Transformers
+# Autoregressive Jazz Piano Music Generation from Midi Tokens
 
 <!-- PROJECT LOGO -->
 <br />
