@@ -1,3 +1,7 @@
 # add folders to ignore
 data
 model
+wandb
+model
+lightning_logs
+data
