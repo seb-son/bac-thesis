@@ -78,7 +78,17 @@ Further instructions inside the respective notebooks.
    ```sh
    mamba install --file requirements.txt
    ```
-4. Train a model with your own data and test it.
+4. Install ffmpeg and fluidsynth on your system
+   ```sh
+   sudo apt update
+   ```
+    ```sh
+   sudo apt install ffmpeg
+   ```
+     ```sh
+   sudo apt install fluidsynth
+   ```
+5. Train a model with your own data and test it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
