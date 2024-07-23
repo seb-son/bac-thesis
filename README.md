@@ -48,8 +48,6 @@ ited basic structural understanding, but only limited rhythmic and harmonic cohe
 generating sequences longer than those they were trained on. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Abstract
-
 You can read the complete thesis in <code> thesis.pdf </code> .
 
 <!-- GETTING STARTED -->
