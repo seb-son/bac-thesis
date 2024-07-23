@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">
-  Autoregressive Jazz Piano Music Generation<br>from MIDI Tokens
+<h1 align: "center">
+  Autoregressive Jazz Piano Music Generation from MIDI Tokens
 </h1>
 <!-- PROJECT LOGO -->
 <br />
