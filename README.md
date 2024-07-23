@@ -1,4 +1,4 @@
-<h1 align: "center">
+<h1 align="center">
   Autoregressive Jazz Piano Music Generation from MIDI Tokens
 </h1>
 <!-- PROJECT LOGO -->
