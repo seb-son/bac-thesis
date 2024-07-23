@@ -7,7 +7,7 @@
   <img title="(C) https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/" alt="music robot" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/auto-music-.jpg" >
 
   <h4 align="center">
-    Bac Thesis in Artificial Intelligence - JKU //
+    Bac Thesis in Artificial Intelligence - JKU <br>
     Supervisor: Francesco Foscarin
     
 
@@ -41,10 +41,16 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Abstract
 
 
- - fill in info - 
+The aim of this Bachelor Thesis is to test the generative abilities of GPT-2 style Autoregressive Trans-
+former models, trained on MIDI-playalongs from the Jazz genre. It builds on my previous work in the
+Practical Project, where I extracted piano sources from the Aebersold dataset and converted them to
+MIDI. I tested and evaluated three different models with the same model architecture but trained on
+differently pre-processed data. When tasked to continue from jazz-style inputs, all three models exhib-
+ited basic structural understanding, but only limited rhythmic and harmonic coherence, especially when
+generating sequences longer than those they were trained on. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
