@@ -6,8 +6,7 @@
   <img title="(C) https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/" alt="music robot" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/auto-music-.jpg" >
 
   <h4 align="center">
-    Bac Thesis in Artificial Intelligence <br> Johannes Kepler University Linz <br>
-    Supervisor: Francesco Foscarin
+    Bachelor Thesis in Artificial Intelligence <br> Johannes Kepler University Linz <br>
     
 
   </p>
