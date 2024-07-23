@@ -46,9 +46,9 @@ MIDI. I tested and evaluated three different models with the same model architec
 differently pre-processed data. When tasked to continue from jazz-style inputs, all three models exhib-
 ited basic structural understanding, but only limited rhythmic and harmonic coherence, especially when
 generating sequences longer than those they were trained on. 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 You can read the complete thesis in <code> thesis.pdf </code> .
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Usage
