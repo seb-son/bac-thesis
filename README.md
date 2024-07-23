@@ -3,11 +3,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img title="(C) image generated with https://www.canva.com/" alt="piano robot" src="https://github.com/user-attachments/assets/b68535b3-c7d8-4843-9cc2-aa256860c194" >
+  <img title="(C) image generated with https://www.canva.com/" alt="piano robot" src="https://github.com/user-attachments/assets/a59bd55a-73a0-40cc-98e3-647b31531afa" >
   <h4 align="center">
     Bachelor Thesis in Artificial Intelligence <br> Johannes Kepler University Linz <br>
     
-
   </p>
 </div>
 
