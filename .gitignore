@@ -5,3 +5,4 @@ wandb
 model
 lightning_logs
 data
+main_slim.ipynb
