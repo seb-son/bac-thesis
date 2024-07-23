@@ -55,7 +55,7 @@ generating sequences longer than those they were trained on.
 
 
 <!-- GETTING STARTED -->
-## USAGE
+## Usage
 
 To train your own models use <code> main.ipynb </code>, to test your models use <code> test.ipynb </code>.
 Further instructions inside the respective notebooks.
