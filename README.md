@@ -3,12 +3,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img title="(C) https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/" alt="music robot" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/auto-music-.jpg" >
-
+  <img title="(C) image generated with https://www.canva.com/" alt="piano robot" src="https://github.com/user-attachments/assets/a59bd55a-73a0-40cc-98e3-647b31531afa" >
   <h4 align="center">
     Bachelor Thesis in Artificial Intelligence <br> Johannes Kepler University Linz <br>
     
-
   </p>
 </div>
 
@@ -78,7 +76,17 @@ Further instructions inside the respective notebooks.
    ```sh
    mamba install --file requirements.txt
    ```
-4. Train a model with your own data and test it.
+4. Install ffmpeg and fluidsynth on your system
+   ```sh
+   sudo apt update
+   ```
+    ```sh
+   sudo apt install ffmpeg
+   ```
+     ```sh
+   sudo apt install fluidsynth
+   ```
+5. Train a model with your own data and test it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
