@@ -19,4 +19,8 @@ pytorch
 torchvision 
 torchaudio 
 pytorch-cuda=12.1
-
+pretty_midi
+fluidsynth
+jupyterlab
+soundfile
+pypianoroll
