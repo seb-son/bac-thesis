@@ -7,7 +7,7 @@
   <img title="(C) https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/" alt="music robot" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/auto-music-.jpg" >
 
   <h4 align="center">
-    Bac Thesis in Artificial Intelligence - JKU
+    Bac Thesis in Artificial Intelligence - JKU //
     Supervisor: Francesco Foscarin
     
 
