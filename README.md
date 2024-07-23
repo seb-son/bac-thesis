@@ -39,16 +39,12 @@
 ## Abstract
 
 
-The aim of this Bachelor Thesis is to test the generative abilities of GPT-2 style Autoregressive Trans-
-former models, trained on MIDI-playalongs from the Jazz genre. It builds on my previous work in the
-Practical Project, where I extracted piano sources from the Aebersold dataset and converted them to
+The aim of this Bachelor Thesis is to test the generative abilities of GPT-2 style Autoregressive Transformer models, trained on MIDI-playalongs from the Jazz genre. It builds on my previous work in the Practical Project, where I extracted piano sources from the Aebersold dataset and converted them to
 MIDI. I tested and evaluated three different models with the same model architecture but trained on
-differently pre-processed data. When tasked to continue from jazz-style inputs, all three models exhib-
-ited basic structural understanding, but only limited rhythmic and harmonic coherence, especially when
-generating sequences longer than those they were trained on. 
+differently pre-processed data. When tasked to continue from jazz-style inputs, all three models exhibited basic structural understanding, but only limited rhythmic and harmonic coherence, especially when generating sequences longer than those they were trained on. 
+
+You can read the complete thesis in <code> thesis.pdf </code> .
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Usage
@@ -111,9 +107,9 @@ Sebastian Sonderegger - K1246236 - K01246236@students.jku.at
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Francesco Foscarin - ICP
-* JKU - ICP 
-* readme-template adapted from https://github.com/othneildrew/Best-README-Template
+* Supervisor: Francesco Foscarin - ICP
+* Institute: JKU - ICP 
+* Readme-template: adapted from https://github.com/othneildrew/Best-README-Template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
