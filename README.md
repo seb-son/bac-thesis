@@ -1,4 +1,4 @@
-# Autoregressive Jazz Piano Music Generation from Midi Tokens
+# Autoregressive Jazz Piano Music Generation from MIDI Tokens
 
 <!-- PROJECT LOGO -->
 <br />
