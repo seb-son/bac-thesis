@@ -3,8 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img title="(C) https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/" alt="music robot" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/auto-music-.jpg" >
-
+  <img title="(C) image generated with https://www.canva.com/" alt="piano robot" src="https://github.com/user-attachments/assets/b68535b3-c7d8-4843-9cc2-aa256860c194" >
   <h4 align="center">
     Bachelor Thesis in Artificial Intelligence <br> Johannes Kepler University Linz <br>
     
