@@ -21,12 +21,11 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Abstract</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Usage</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -56,18 +55,11 @@ generating sequences longer than those they were trained on.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## USAGE
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To train your own models use <code> main.ipynb </code>, to test your models use <code> test.ipynb </code>.
+Further instructions inside the respective notebooks.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -94,47 +86,24 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    mamba install --file requirements.txt
    ```
-4. ...
+4. Train a model with your own data and test it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- LICENSE -->
 ## License
-Enter license
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). By using, modifying, or distributing this software, you agree to comply with the terms of the GPL-3.0. This license guarantees end users the freedom to run, study, share, and modify the software. Any distributed version, whether it is the original or a derivative work, must also be licensed under the GPL-3.0 to ensure that these freedoms are preserved. For more details, refer to the LICENSE file included in this repository or visit https://www.gnu.org/licenses/gpl-3.0.html.<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
+Due to copyright restrictions I can not publicly share the training data. 
+For further information how to get training data, contact me.
 
 Sebastian Sonderegger - K1246236 - K01246236@students.jku.at
 
@@ -146,7 +115,6 @@ Sebastian Sonderegger - K1246236 - K01246236@students.jku.at
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
 * Francesco Foscarin - ICP
 * JKU - ICP 
 * readme-template adapted from https://github.com/othneildrew/Best-README-Template
