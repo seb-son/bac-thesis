@@ -107,9 +107,9 @@ Sebastian Sonderegger - K1246236 - K01246236@students.jku.at
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Francesco Foscarin - ICP
-* JKU - ICP 
-* readme-template adapted from https://github.com/othneildrew/Best-README-Template
+* Supervisor: Francesco Foscarin - ICP
+* Institute: JKU - ICP 
+* Readme-template: adapted from https://github.com/othneildrew/Best-README-Template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
